@@ -1,4 +1,4 @@
-# cats_vs_dogs 🐶😺
+# Convolutional neural network (CNN) to classify images of dogs and cats 🐶😺
 Convolutional neural network for classifying dog and cat images.
  
 ## Description
