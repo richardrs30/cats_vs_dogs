@@ -6,7 +6,9 @@ It is a convolutional neural network model created with Python and libraries suc
 
 ## Installation
 Download the file and run it in google collaboratory.
+
 <br>
+
 ![img-cats-vs-dogs](https://github.com/richardrs30/cats_vs_dogs/blob/main/img-cats-vs-dogs.png)
 
 
